@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">prueba2</string>
+    <string-array name="generos">
+        <item>hombre</item>
+        <item>mujer</item>
+    </string-array>
+</resources>
